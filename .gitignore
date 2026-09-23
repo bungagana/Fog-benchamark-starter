@@ -1,0 +1,6 @@
+config/paths.local.yaml
+results/*/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
